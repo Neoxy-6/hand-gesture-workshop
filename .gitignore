@@ -1,0 +1,15 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# personal recordings and trained models
+data/
+models/
+*.tmp
+
+# editor / os
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
